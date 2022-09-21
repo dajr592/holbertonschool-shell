@@ -1,3 +1,3 @@
-./holbertonschool-shell
-/basics
+#!/bin/bash
+/holbertonschool-shell/basics/0-current_working_directory
 

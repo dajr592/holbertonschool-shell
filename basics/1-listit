@@ -1,4 +1,2 @@
-./ls -l
--rwxr--r-- 1 root root 70 Sep 21 01:33 0-current_working_directory
--rw-r--r-- 1 root root  0 Sep 21 02:32 1-listit
--rw-r--r-- 1 root root 24 Sep 21 01:04 README.md
+#!/bin/bash
+ls
